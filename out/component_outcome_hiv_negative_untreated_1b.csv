@@ -1,0 +1,8 @@
+Variable,Level,Control,Treatment,Overall,Missing (Overall)
+Number of Individuals,--,3272,3206,6478,
+Number of Clusters,--,15,15,30,
+Village Proportion of Men who received VMMC,Mean (SD),0.28 (0.05),0.35 (0.07),0.31 (0.07),
+Village Proportion of People who received HTC,Mean (SD),0.36 (0.06),0.35 (0.05),0.35 (0.05),
+Village Proportion of HIV+ who received ART,Mean (SD),0.9 (0.07),0.95 (0.05),0.92 (0.06),
+Outcome 1: HIV Seroconversion (3-year period),Yes,61 (2%),38 (1%),99 (2%),648 (10%)
+,No,2894 (98%),2837 (99%),5731 (98%),

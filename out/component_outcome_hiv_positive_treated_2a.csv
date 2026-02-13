@@ -1,0 +1,12 @@
+Variable,Level,Control,Treatment,Overall,Missing (Overall)
+Number of Individuals,--,1693,1771,3464,
+Number of Clusters,--,15,15,30,
+Component 2: HTC,Yes,1490 (90%),1517 (87%),3007 (88%),58 (2%)
+,No,173 (10%),226 (13%),399 (12%),
+Component 3: ART,Yes,1619 (96%),1738 (98%),3357 (97%),
+,No,74 (4%),33 (2%),107 (3%),
+Village Proportion of Men who received VMMC,Mean (SD),0.27 (0.05),0.35 (0.07),0.31 (0.07),
+Village Proportion of People who received HTC,Mean (SD),0.37 (0.06),0.36 (0.05),0.37 (0.05),
+Village Proportion of HIV+ who received ART,Mean (SD),0.91 (0.06),0.96 (0.04),0.93 (0.06),
+Outcome 2: Mortality (3-year period),Yes,32 (2%),30 (2%),62 (2%),58 (2%)
+,No,1631 (98%),1713 (98%),3344 (98%),

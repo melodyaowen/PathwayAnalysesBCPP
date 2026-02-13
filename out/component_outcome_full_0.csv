@@ -1,0 +1,21 @@
+,Variable,Level,Control,Treatment,Overall,Missing (Overall)
+1,Number of Individuals,--,6540,6591,13131,
+2,Number of Clusters,--,15,15,30,
+3,Component 1: VMMC,Yes,665 (11%),853 (15%),1518 (13%),1480 (11%)
+4,,No,991 (17%),802 (14%),1793 (15%),
+5,,Female,4162 (72%),4178 (72%),8340 (72%),
+6,Component 2: HTC,Yes,2371 (38%),2329 (37%),4700 (37%),521 (4%)
+7,,No,3902 (62%),4008 (63%),7910 (63%),
+8,Component 3: ART,Yes,1646 (86%),1769 (92%),3415 (89%),9308 (71%)
+9,,No,259 (14%),149 (8%),408 (11%),
+10,Received any component,Yes,3140 (48%),3286 (50%),6426 (49%),
+11,,No,3400 (52%),3305 (50%),6705 (51%),
+12,Village Proportion of Men who received VMMC,Mean (SD),0.28 (0.05),0.35 (0.07),0.32 (0.07),
+13,Village Proportion of People who received HTC,Mean (SD),0.36 (0.06),0.35 (0.05),0.36 (0.06),
+14,Village Proportion of HIV+ who received ART,Mean (SD),0.9 (0.06),0.95 (0.05),0.92 (0.06),
+15,Village Proportion of HIV- who received at least 1 component,Mean (SD),0.31 (0.05),0.32 (0.05),0.31 (0.05),
+16,Village Proportion of HIV+ who received at least 1 component,Mean (SD),0.93 (0.04),0.95 (0.03),0.94 (0.04),
+17,Outcome 1: HIV Seroconversion (3-year period),Yes,90 (2%),57 (1%),147 (2%),4580 (35%)
+18,,No,4202 (98%),4202 (99%),8404 (98%),
+19,Outcome 2: Mortality (3-year period),Yes,78 (1%),52 (1%),130 (1%),521 (4%)
+20,,No,6195 (99%),6285 (99%),12480 (99%),
